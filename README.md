@@ -1,9 +1,6 @@
 # python_quizzes
 Quizzes for Python class
-
-S/N   |   Name      Number of Errors
---------------------------------
-#1    |   Bike      4
+#1    |   Bike    |   4 Errors
 #2    
 #3    
 #4    
