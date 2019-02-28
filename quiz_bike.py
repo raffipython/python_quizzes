@@ -1,3 +1,17 @@
+"""
+ARGS USED:  -s 22 -m AceBike -p 999 -w
+OUTPUT:
+-------
+Bikes
+Size  is 22
+Model is AceBike
+Price is 999
+Msg   is Let us go to the bike shop!
+Type  is Kids bike
+It is also a women bike
+-------
+"""
+
 import argparse 
 
 class Bike():                                                   
