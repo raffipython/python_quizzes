@@ -1,13 +1,8 @@
 # python_quizzes
 Quizzes for Python class
 ------------------------
-#1        |   Bike    |   4 Errors
-#2        |           |
-#3        |           |
-#4        |           |
-#5        |           |
-#6        |           |
-#7        |           |
-#8        |           |
-#9        |           |
-#10       |           |
+1, Bike, 4 errors
+2, Calculator, 4 errors
+3, Grader, 5 errors
+4, Solar system, 7 errors
+5, Survey, 5 errors
