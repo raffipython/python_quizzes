@@ -26,7 +26,7 @@ class Bike():
             self.msg = "Let us go to the bike shop!"
 
     @staticmethod
-    def bike_type(self, size): 
+    def bike_type(size): 
         if size >= 25:
             return "Adults bike"
         else:
